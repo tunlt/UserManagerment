@@ -1,0 +1,12 @@
+addPromotion=AddPromotionController
+create=CreateUserController
+deletePromotion=DeletePromotionController
+login=LoginController
+logOut=LogOutController
+loadTag=LoadTagController
+manage=ManageController
+promotionDetail=PromotionDetailController
+update=UpdateController
+search=SearchController
+saveChange=SaveChangeController
+delete=DeleteUserController
